@@ -1,4 +1,4 @@
-# Discord Fitbit Verified Role Bot
+# Discord Fitbit Verified Bot Role
 
 Create a file called `config.json`:
 
