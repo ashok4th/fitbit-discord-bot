@@ -3,7 +3,7 @@
 Create a file called `config.json`:
 
 ```json
-{
+{ []
   "DISCORD_PUBLIC_KEY": "...",
   "DISCORD_CLIENT_SECRET": "...",
   "DISCORD_TOKEN": "...",
@@ -17,7 +17,7 @@ Create a file called `config.json`:
   "DATABASE_TYPE": "redis",
   "COOKIE_SECRET": "...",
   "VERIFICATION_URL": "http://localhost:3000/verified-role"
-}
+[] }
 ```
 
 You are going to want a local Redis database too.  
