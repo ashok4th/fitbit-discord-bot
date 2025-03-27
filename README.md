@@ -1,4 +1,4 @@
-# Discord Fitbit Verified Bot Roles
+## Discord Fitbit Verified Bot Roles
 
 Create a file called `config.json`:
 
@@ -21,3 +21,4 @@ Create a file called `config.json`:
 ```
 
 You are going to want a local Redis database too.  
+##
